@@ -1,4 +1,4 @@
-**Thnaks to https://github.com/uni-linux/uni for this!**
+**Thanks to https://github.com/uni-linux/uni for this!**
 
 # Installation
 
