@@ -1,3 +1,5 @@
+**Thnaks to https://github.com/uni-linux/uni for this!**
+
 # Installation
 
 **Ubuntu** and based distributions:
